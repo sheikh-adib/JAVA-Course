@@ -7,15 +7,15 @@ Course of study: ESE
 
 ## Directory tree
 * Main
-  * Pre-check
+  * [Pre-check/](.\Pre-check)
       * src
-  * Java Hometasks
-      * Homework assignment 1
-        * Problem 1
-        * Problem 2
-        * Problem 3
-      * Homework assignment 2
-      * Homework assignment 3
+  * [Java Hometasks/](.\Java-Hometasks)
+      * [Homework assignment 1/](.\Java-Hometasks\Homework-assignment-1)
+        * [Problem 1/](.\Java-Hometasks\Homework-assignment-1\problem-1)
+        * [Problem 2/](.\Java-Hometasks\Homework-assignment-1\problem-2)
+        * [Problem 3/](.\Java-Hometasks\Homework-assignment-1\problem-3)
+      * [Homework assignment 2/](.\Java-Hometasks\Homework-assignment-2)
+      * [Homework assignment 3/](.\Java-Hometasks\Homework-assignment-3)
    
 ## Pre-check Task
 ### Enviroment
