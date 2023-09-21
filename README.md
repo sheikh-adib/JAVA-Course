@@ -8,7 +8,7 @@ Course of study: ESE
 ## Directory tree
 * Main
   * [Pre-check/](./Pre-check)
-      * src
+      * [src/](./Pre-check/src)
   * [Java Hometasks/](./Java%20Hometasks)
       * [Homework assignment 1/](./Java%20Hometasks/Homework%20assignment%201)
         * [Problem 1/](./Java%20Hometasks/Homework_assignment_1/Problem_1)
