@@ -11,9 +11,9 @@ Course of study: ESE
       * src
   * [Java Hometasks/](./Java%20Hometasks)
       * [Homework assignment 1/](./Java%20Hometasks/Homework%20assignment%201)
-        * [Problem 1/](./Java%20Hometasks/Homework_assignment_1/problem-1)
-        * [Problem 2/](./Java%20Hometasks/Homework_assignment_1/problem-2)
-        * [Problem 3/](./Java%20Hometasks/Homework_assignment_1/problem-3)
+        * [Problem 1/](./Java%20Hometasks/Homework_assignment_1/problem_1)
+        * [Problem 2/](./Java%20Hometasks/Homework_assignment_1/problem_2)
+        * [Problem 3/](./Java%20Hometasks/Homework_assignment_1/problem_3)
       * [Homework assignment 2/](./Java%20Hometasks/Homework_assignment_2)
       * [Homework assignment 3/](./Java%20Hometasks/Homework_assignment_3)
    
