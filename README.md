@@ -8,6 +8,7 @@ Course of study: ESE
 ## Directory tree
 Main
   - Pre-check
+    - src
   - Home task
     - Task 1
     - Task 2
@@ -19,7 +20,8 @@ Main
 - using openJDK-20
 - IDE: IntelliJ
 ### Solution aproach
-1. list of accesible function of Prticipant can bee seen in interface of Participant (Participant_interface)
+1. main file: Pre-check/src/Participant.java
+2. list of accesible function of Prticipant can bee seen in interface of Participant (Participant_interface)
 ### Verification
 - list of three participant were created
 - three scenearion were conducted
