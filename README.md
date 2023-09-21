@@ -27,7 +27,7 @@ Course of study: ESE
 2. list of accesible function of Prticipant can bee seen in interface of Participant (Participant_interface)
 ### Verification
 - list of three participant were created
-- three scenearion were conducted
+- three scenario were conducted
   1. select participant with sport type = "climbing"
   2. select participant taht have international awards
   3. select participant taht have national awards
