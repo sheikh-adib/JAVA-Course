@@ -20,30 +20,19 @@ sun is Y cubic miles, and the ratio of the volume of the Sun to the volume of th
  */
 
 
+
 public class Main {
-
-    public static double sunDiameter = 865000; //miles
-    public static double earthDiameter = 7600; //miles
-
-    public static double volumeCal(double r)
-    {
-        return (4 * Math.PI * Math.pow( r , 3.0 ) ) / 3;
-    }
-
     public static void main(String[] args) {
+        // Press Alt+Enter with your caret at the highlighted text to see how
+        // IntelliJ IDEA suggests fixing it.
+        System.out.printf("Hello and welcome!");
 
-        // (a) the volume of the Earth in cubic miles
-        double earthVolume = volumeCal(earthDiameter/2);
+        // Press Shift+F10 or click the green arrow button in the gutter to run the code.
+        for (int i = 1; i <= 5; i++) {
 
-        // (b) the volume of the Sun in cubic miles
-        double sunVolume = volumeCal(sunDiameter/2);
-
-        // (c) the ratio of the volume of the Sun to the volume of the Earth
-        double ratio = sunVolume/earthVolume;
-
-        // print
-        System.out.println("\nThe volume of the Earth is " + earthVolume + " cubic miles, " +
-                "the volume of the sun is " + sunVolume + " cubic miles, " +
-                "and the ratio of the volume of the Sun to the volume of the Earth is " + ratio + ".");
+            // Press Shift+F9 to start debugging your code. We have set one breakpoint
+            // for you, but you can always add more by pressing Ctrl+F8.
+            System.out.println("i = " + i);
+        }
     }
 }
