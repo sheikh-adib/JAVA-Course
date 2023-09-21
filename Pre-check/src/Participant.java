@@ -134,7 +134,7 @@ public class Participant implements Participant_interface{
             System.out.println("\nPass");
         }
 
-        // select participant with sport type = Climbing
+        // select participant with internatioonal awards
         System.out.println("\nParticipant with international award");
         for ( Participant participant : listParticipant){
             for (String award: participant.listAwards){
@@ -151,7 +151,7 @@ public class Participant implements Participant_interface{
             System.out.println("\nPass");
         }
 
-        // select participant with sport type = Climbing
+        // select participant with national awards
         System.out.println("\nParticipant with national award");
         for ( Participant participant : listParticipant){
             for (String award: participant.listAwards){
