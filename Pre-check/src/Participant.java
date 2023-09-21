@@ -1,3 +1,10 @@
+/*
+ * Fachhochschule Dortmund
+ * Sheikh Muahmmad Adib Bin Sheikh Abu Bakar
+ * Student ID: 7219310
+ * ESE student
+ */
+
 import java.util.ArrayList;
 import java.util.Arrays;
 
@@ -83,12 +90,6 @@ public class Participant implements Participant_interface{
         String msg = "full name: " + name + " " + surname + "\n" + "Age: " + age + "\n" + "Sport type: "+  sportType + "\n" + "Awards: " + listAwards + "\n";
         return msg;
     }
-
-
-
-
-
-
 
 
     public static void main(String[] args) {
