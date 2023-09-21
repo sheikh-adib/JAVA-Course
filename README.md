@@ -9,10 +9,13 @@ Course of study: ESE
 Main
   - Pre-check
     - src
-  - Home task
-    - Task 1
-    - Task 2
-    - Task 3
+  -  Java Hometasks
+    - Homework assignment 1
+       - Problem 1
+       - Problem 2
+       - Problem 3
+    - Homework assignment 2
+    - Homework assignment 3
    
 ## Pre-check Task
 ### Enviroment
