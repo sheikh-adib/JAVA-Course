@@ -10,12 +10,12 @@ Course of study: ESE
   * [Pre-check/](./Pre-check)
       * src
   * [Java Hometasks/](./Java%20Hometasks)
-      * [Homework assignment 1/](./Java-Hometasks/Homework-assignment-1)
-        * [Problem 1/](./Java-Hometasks/Homework-assignment-1/problem-1)
-        * [Problem 2/](./Java-Hometasks/Homework-assignment-1/problem-2)
-        * [Problem 3/](./Java-Hometasks/Homework-assignment-1/problem-3)
-      * [Homework assignment 2/](./Java-Hometasks/Homework-assignment-2)
-      * [Homework assignment 3/](./Java-Hometasks/Homework-assignment-3)
+      * [Homework assignment 1/](./Java%20Hometasks/Homework%20assignment%201)
+        * [Problem 1/](./Java%20Hometasks/Homework_assignment_1/problem-1)
+        * [Problem 2/](./Java%20Hometasks/Homework_assignment_1/problem-2)
+        * [Problem 3/](./Java%20Hometasks/Homework_assignment_1/problem-3)
+      * [Homework assignment 2/](./Java%20Hometasks/Homework_assignment_2)
+      * [Homework assignment 3/](./Java%20Hometasks/Homework_assignment_3)
    
 ## Pre-check Task
 ### Enviroment
