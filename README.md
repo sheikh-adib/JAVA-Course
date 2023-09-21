@@ -6,17 +6,16 @@ Student ID:    7219310
 Course of study: ESE
 
 ## Directory tree
-Main
-  - Pre-check
-    - src
-  -  Java Hometasks
-    
-    - Homework assignment 1
-       - Problem 1
-       - Problem 2
-       - Problem 3
-    - Homework assignment 2
-    - Homework assignment 3
+* Main
+  * Pre-check
+      * src
+  * Java Hometasks
+      * Homework assignment 1
+        * Problem 1
+        * Problem 2
+        * Problem 3
+      * Homework assignment 2
+      * Homework assignment 3
    
 ## Pre-check Task
 ### Enviroment
