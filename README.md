@@ -25,17 +25,17 @@ Course of study: ESE
 - IDE: IntelliJ
    
 # Pre-check Task
-### Execution instruction
+#### Execution instruction
 
 1. Number of file: 1
    
 3. main file: [Pre-check/src/Participant.java](./Pre-check/src/Participant.java)
    
-### Solution aproach  
+#### Solution aproach  
 
 1. list of accesible function of Prticipant can bee seen in interface of Participant (Participant_interface)
 
-### Verification
+#### Verification
 - list of three participant were created
 - three scenario were conducted
   1. select participant with sport type = "climbing"
@@ -46,7 +46,7 @@ Course of study: ESE
 # Home assigment 1
 
 ## Problem 1
-### Execution instruction
+#### Execution instruction
 
 1. Number of file: 1
    
@@ -54,16 +54,14 @@ Course of study: ESE
 
 
 ## Problem 2
-### Execution instruction
+#### Execution instruction
 
 1. Number of file: 1
    
 2. main file: [Primes.java](./Java%20Hometasks/Homework_assignment_1/Problem_2/src/Primes.java)
-   
-### Solution aproach 
 
 ## Problem 3
-### Execution instruction
+#### Execution instruction
 
 1. Number of file: 1
    
@@ -71,7 +69,7 @@ Course of study: ESE
 
 
 ## Problem 4
-### Execution instruction
+#### Execution instruction
 
 1. Number of file: 1
    
