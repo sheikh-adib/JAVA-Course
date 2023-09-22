@@ -44,6 +44,7 @@ Course of study: ESE
 - assertion was used to verify
 
 # Home assigment 1
+
 ## Problem 1
 ### Execution instruction
 
@@ -52,12 +53,31 @@ Course of study: ESE
 2. main file: [MathCalc.java](./Java%20Hometasks/Homework_assignment_1/Problem_1/src/MathCalc.java)
    
 ### Solution aproach 
+
 ## Problem 2
 ### Execution instruction
 
 1. Number of file: 1
    
 2. main file: [Primes.java](./Java%20Hometasks/Homework_assignment_1/Problem_2/src/Primes.java)
+   
+### Solution aproach 
+
+## Problem 3
+### Execution instruction
+
+1. Number of file: 1
+   
+2. main file: [StringCharacters.java](./Java%20Hometasks/Homework_assignment_1/Problem_3/src/StringCharacters.java)
+   
+### Solution aproach 
+
+## Problem 3
+### Execution instruction
+
+1. Number of file: 1
+   
+2. main file: 
    
 ### Solution aproach 
 
