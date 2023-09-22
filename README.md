@@ -12,7 +12,9 @@ Course of study: ESE
   * [Java Hometasks/](./Java%20Hometasks)
       * [Homework assignment 1/](./Java%20Hometasks/Homework%20assignment%201)
         * [Problem 1/](./Java%20Hometasks/Homework_assignment_1/Problem_1)
+          * [src/](./Java%20Hometasks/Homework_assignment_1/Problem_1/src)
         * [Problem 2/](./Java%20Hometasks/Homework_assignment_1/Problem_2)
+          * [src/](./Java%20Hometasks/Homework_assignment_1/Problem_2/src)
         * [Problem 3/](./Java%20Hometasks/Homework_assignment_1/Problem_3)
       * [Homework assignment 2/](./Java%20Hometasks/Homework_assignment_2)
       * [Homework assignment 3/](./Java%20Hometasks/Homework_assignment_3)
@@ -44,8 +46,20 @@ Course of study: ESE
 # Home assigment 1
 ## Problem 1
 ### Execution instruction
-### Solution aproach 
+
 1. Number of file: 1
-2. main file: 
+   
+2. main file: [MathCalc.java](./Java%20Hometasks/Homework_assignment_1/Problem_1/src/MathCalc.java)
+   
+### Solution aproach 
+## Problem 2
+### Execution instruction
+
+1. Number of file: 1
+   
+2. main file: [Primes.java](./Java%20Hometasks/Homework_assignment_1/Problem_2/src/Primes.java)
+   
+### Solution aproach 
+
 
 
