@@ -51,8 +51,7 @@ Course of study: ESE
 1. Number of file: 1
    
 2. main file: [MathCalc.java](./Java%20Hometasks/Homework_assignment_1/Problem_1/src/MathCalc.java)
-   
-### Solution aproach 
+
 
 ## Problem 2
 ### Execution instruction
@@ -69,17 +68,15 @@ Course of study: ESE
 1. Number of file: 1
    
 2. main file: [StringCharacters.java](./Java%20Hometasks/Homework_assignment_1/Problem_3/src/StringCharacters.java)
-   
-### Solution aproach 
 
-## Problem 3
+
+## Problem 4
 ### Execution instruction
 
 1. Number of file: 1
    
 2. main file: 
    
-### Solution aproach 
 
 
 
