@@ -76,7 +76,7 @@ Course of study: ESE
 
 1. Number of file: 1
    
-2. main file: [Main.java]((./Java%20Hometasks/Homework_assignment_1/Problem_4/src/Main.java))
+2. main file: [Main.java](./Java%20Hometasks/Homework_assignment_1/Problem_4/src/Main.java)
    
 
 
