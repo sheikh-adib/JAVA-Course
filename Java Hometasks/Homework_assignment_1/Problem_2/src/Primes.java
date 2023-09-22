@@ -2,10 +2,11 @@
  * Fachhochschule Dortmund
  * Sheikh Muahmmad Adib Bin Sheikh Abu Bakar
  * Student ID: 7219310
- * ESE student
+ * ESE student 
+ * Task: Home assigment 1
+ * Subtask: Problem 2 
  */
 
-//problem_2
 /*
 Create a new program that has the following features. Download source (JAVA).
 (a) Uses labeled continue instead of break

@@ -3,9 +3,10 @@
  * Sheikh Muahmmad Adib Bin Sheikh Abu Bakar
  * Student ID: 7219310
  * ESE student
+ * Task: Home assigment 1
+ * Subtask: Problem 1
  */
 
-//problem_1
 /*
 The diameter of the Sun is approximately 865,000 miles. The diameter of the Earth is
 approximately 7600 miles. Use the methods in the class Math to calculate,
