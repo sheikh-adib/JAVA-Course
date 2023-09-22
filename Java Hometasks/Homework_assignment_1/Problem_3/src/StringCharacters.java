@@ -35,6 +35,7 @@ public class StringCharacters
 
 */
 
+
 public class StringCharacters
 {
     public static void main(String[] args)
@@ -69,12 +70,11 @@ public class StringCharacters
             }
 
             // number of letter (skip if the character is not a letter)
-            if(c == ' ' || c == '`' || c == ';' || c == '?' )
+            if(c == ' ' || c == '`' || c == ';' || c == '?' || c == ',')
             {
                 continue;
             }
             letters++;
-
         }
 
         System.out.println("The text contained: \n" + vowels + " vowels, \n" + (letters - vowels) + " consonants, \n" + spaces + " spaces, \n" + letters + " letters.");
