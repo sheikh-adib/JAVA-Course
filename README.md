@@ -77,6 +77,21 @@ Course of study: ESE
 1. Number of file: 1
    
 2. main file: [Main.java](./Java%20Hometasks/Homework_assignment_1/Problem_4/src/Main.java)
+
+#### Definition and Approach
+
+##### Word Definition
+A word start with a letter or '`' and end with a letter or ''' and without any sapce between the charachter
+##### Algorithm
+1. make a list of word from a text
+2. remove redundant word (optional)
+3. sort
+   1. iterate every word in the list
+   2. compare the the first charachter of selected word with the other word
+   3. if the value of the character is bigger than the compared charachter, swap those words
+
+
+
    
 
 
