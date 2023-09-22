@@ -22,7 +22,7 @@ public class Main {
                 +" or to take arms against a sea of troubles,"
                 +" and by opposing end them?";
 
-        // 1. define word - continues sequence of letters (start with a letter or ` and end with  space or ')
+        // 1. define word - A word start with a letter or '`' and end with a letter or ''' and without any space between the charachters
         // 2. collect all word in a list
         // 3. remove redundant word (optional)
         // 4. sort out the list
