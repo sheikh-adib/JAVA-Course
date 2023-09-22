@@ -1,8 +1,9 @@
 /*
  * Fachhochschule Dortmund
- * Sheikh Muahmmad Adib Bin Sheikh Abu Bakar
+ * Sheikh Muhammad Adib Bin Sheikh Abu Bakar
  * Student ID: 7219310
  * ESE student
+ * Task: Pre-check task
  */
 
 import java.util.ArrayList;
