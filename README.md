@@ -1,11 +1,11 @@
-# JAVA-Course
+# Introduction
 Student Name:  Sheikh Muhammad Adib Bin Sh Abu bakar 
 
 Student ID:    7219310
 
 Course of study: ESE
 
-## Directory tree
+### Directory tree
 * Main
   * [Pre-check/](./Pre-check)
       * [src/](./Pre-check/src)
@@ -17,14 +17,22 @@ Course of study: ESE
       * [Homework assignment 2/](./Java%20Hometasks/Homework_assignment_2)
       * [Homework assignment 3/](./Java%20Hometasks/Homework_assignment_3)
    
-## Pre-check Task
 ### Enviroment
 - Language: JAVA
 - using openJDK-20
 - IDE: IntelliJ
-### Solution aproach
-1. main file: Pre-check/src/Participant.java
-2. list of accesible function of Prticipant can bee seen in interface of Participant (Participant_interface)
+   
+# Pre-check Task
+### Execution instruction
+
+1. Number of file: 1
+   
+3. main file: [Pre-check/src/Participant.java](./Pre-check/src/Participant.java)
+   
+### Solution aproach  
+
+1. list of accesible function of Prticipant can bee seen in interface of Participant (Participant_interface)
+
 ### Verification
 - list of three participant were created
 - three scenario were conducted
@@ -32,5 +40,12 @@ Course of study: ESE
   2. select participant taht have international awards
   3. select participant taht have national awards
 - assertion was used to verify
+
+# Home assigment 1
+## Problem 1
+### Execution instruction
+### Solution aproach 
+1. Number of file: 1
+2. main file: 
 
 
