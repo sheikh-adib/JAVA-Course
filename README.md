@@ -81,7 +81,7 @@ Course of study: ESE
 #### Definition and Approach
 
 ##### Word Definition
-A word start with a letter or '`' and end with a letter or ''' and without any sapce between the charachter
+A word start with a letter or '`' and end with a letter or ''' and without any space between the charachters
 ##### Algorithm
 1. make a list of word from a text
 2. remove redundant word (optional)
