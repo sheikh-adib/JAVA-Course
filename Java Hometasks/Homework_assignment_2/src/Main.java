@@ -21,7 +21,7 @@ class Car {
 
     public String toString()
     {
-        return "ID: " + id + ", Make: " + make  + ", Model: " + model + ", Color: " + color  + ",  Registration Number: " + registrationNumber  + ", Year: " + year  + ", Price: " + price;
+        return "ID: " + id + ", Make: " + make  + ", Model: " + model + ", Color: " + color  + ",  Registration Number: " + registrationNumber  + ", Year: " + year  + ", Price: " + price + " eur";
     }
 
     Car(String id,String make, String model, String color, String registrationNumber, int year, double price){
@@ -98,7 +98,7 @@ public class Main {
 
         // save the file
         bw_years.close();
-        bw_years.close();
+        fw_years.close();
 
         // c) a list of cars of a given year of manufacture, the price of which is higher than the specified one
         // select
@@ -112,7 +112,7 @@ public class Main {
 
         for (Car car : carList)
         {
-            if ( car.year == year && car.price >= priceLowBound)//               (currentYears - car.year + 1 )> yearsMin)
+            if ( car.year == year && car.price >= priceLowBound)
             {
                 bw_price.write(car.toString());
                 bw_price.newLine();
