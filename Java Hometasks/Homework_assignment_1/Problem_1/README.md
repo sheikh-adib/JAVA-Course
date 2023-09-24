@@ -9,50 +9,23 @@ Student ID: 7219310
 ESE student
 
 # Task
-Task: Pre-check task
+Task: Home assignment 1/Problem 1
 
 # Solution
-list of accesible function of Prticipant can bee seen in interface of Participant (Participant_interface)
-
 Number of file: 1
 
-main file: [Participant.java](./src/Participant.java)
+main file: [MathCalc.java](./src/MathCalc.java)
 
-# Verification
-1. list of three participant were created
-     ```
-     Participant participant1 = new Participant("Sheikh", "Muhammad",22, "Climbing", new String[]{"national", "international"});
-     Participant participant2 = new Participant("Adib", "Bin",23, "Climbing", new String[]{"national"});
-     Participant participant3 = new Participant("Abu", "Bakar",24, "Cycling", new String[]{"national", "international"});
-     
-    ```
-3. three scenario were conducted
-    1. select participant with sport type = "climbing"
-    2. select participant that have "international awards"
-    3. select participant that have "national awards"
-4. assertion was used to verify
+A module is created to culclate sphere volume
+```
+public static double volumeCal(double r)
+    {
+        return (4 * Math.PI * Math.pow( r , 3.0 ) ) / 3;
+    }
+```
 
 # Output
 ```
-Participant with sportType "Climbing"
-Muhammad Sheikh
-Bin Adib
-
-Pass
-
-Participant with international award
-Muhammad Sheikh
-Bakar Abu
-
-Pass
-
-Participant with national award
-Muhammad Sheikh
-Bin Adib
-Bakar Abu
-
-Pass
-
-Process finished with exit code 0
+The volume of the Earth is 2.2984729611703882E11 cubic miles, the volume of the sun is 3.388807851993121E17 cubic miles, and the ratio of the volume of the Sun to the volume of the Earth is 1474373.5990122468.
 ```
 
