@@ -26,13 +26,13 @@ main file: [Main.java](./src/Main.java)
 2. The algorithm of the solution is as follow.
       1. Make a list of word from a text.
       2. Remove redundant word (optional).
-         ```
+         ```java
          boolean removeRedundant = false;
          ```
       4. Sorting (based on the word's first character) :
            1. Iterate every word in the list.
            2. Compare the the first value of charachter of selected word with the other word's first charachter value.
-              ```
+              ```java
               if((int)currentWord.charAt(0) > (int)wordList.get(j).toLowerCase().charAt(0))
               ```
            4. During the comparison, the character is set to lower case.
