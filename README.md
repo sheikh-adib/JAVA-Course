@@ -23,38 +23,22 @@ Course of study: ESE
 - IDE: IntelliJ
    
 # Pre-check Task
-#### Execution instruction
-
 1. Number of file: 1
+2. Folder:[Pre-check](./Pre-check)
+3. README:[./Pre-check/README.md]
+4. Main file: [Participant.java](./Pre-check/src/Participant.java)
    
-3. main file: [Pre-check/src/Participant.java](./Pre-check/src/Participant.java)
-   
-#### Solution aproach  
 
-1. list of accesible function of Prticipant can bee seen in interface of Participant (Participant_interface)
-
-#### Verification
-- list of three participant were created
-- three scenario were conducted
-  1. select participant with sport type = "climbing"
-  2. select participant taht have international awards
-  3. select participant taht have national awards
-- assertion was used to verify
-
-# Home assigment 1
 
 ## Problem 1
-#### Execution instruction
-
 1. Number of file: 1
-   
-2. main file: [MathCalc.java](./Java%20Hometasks/Homework_assignment_1/Problem_1/src/MathCalc.java)
+2. Folder:[Problem_1](./Java%20Hometasks/Homework_assignment_1/Problem_1)
+3. README:[./Java%20Hometasks/Homework_assignment_1/Problem_1/README.md]
+4. Main file: [MathCalc.java](./Pre-check/src/MathCalc.java)
 
 
 ## Problem 2
-#### Execution instruction
 
-1. Number of file: 1
    
 2. main file: [Primes.java](./Java%20Hometasks/Homework_assignment_1/Problem_2/src/Primes.java)
 
