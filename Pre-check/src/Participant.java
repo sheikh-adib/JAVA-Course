@@ -130,10 +130,8 @@ public class Participant implements Participant_interface{
             }
         }
 
-        assert aspected_list.equals(output_list);
-        if (aspected_list.equals(output_list)){
-            System.out.println("\nPass");
-        }
+        assert aspected_list.equals(output_list): "wrong student was listed";
+        System.out.println("\nPass");
 
         // select participant with internatioonal awards
         System.out.println("\nParticipant with international award");
@@ -147,10 +145,9 @@ public class Participant implements Participant_interface{
             }
         }
 
-        assert aspected_numOfInternationalAwardStudennt == output_numOfInternationalAwardStudennt;
-        if (aspected_numOfInternationalAwardStudennt == output_numOfInternationalAwardStudennt){
-            System.out.println("\nPass");
-        }
+
+        assert aspected_numOfInternationalAwardStudennt == output_numOfInternationalAwardStudennt : "number of student should be 2";
+        System.out.println("\nPass");
 
         // select participant with national awards
         System.out.println("\nParticipant with national award");
@@ -164,12 +161,7 @@ public class Participant implements Participant_interface{
             }
         }
 
-        assert aspected_numOfNationalAwardStudennt == output_numOfNationalAwardStudennt;
-        if (aspected_numOfNationalAwardStudennt == output_numOfNationalAwardStudennt){
-            System.out.println("\nPass");
-        }
-
-
-
+        assert aspected_numOfNationalAwardStudennt == output_numOfNationalAwardStudennt: "number of student should be 3";
+        System.out.println("\nPass");
     }
 }

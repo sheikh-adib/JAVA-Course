@@ -29,7 +29,7 @@ public class Main {
 
         String word = "";
         ArrayList<String> wordList= new ArrayList<String>();
-        boolean removeRedundant = true;
+        boolean removeRedundant = false;
 
         // 2. collect all word in a list
         for (int i = 0; i < text.length(); i++)

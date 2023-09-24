@@ -18,7 +18,6 @@ Create a new program that has the following features. Download source (JAVA).
 public class Primes {
     public static void main(String[] args) {
 
-        // max value
         int nValues = 50;
 
         for(int i = 2; i <= nValues; i++)
