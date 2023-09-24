@@ -58,7 +58,7 @@ Course of study: ESE
 
 # Homework Assignment 2
 1. Number of solution file: 1
-2. Numbe of output file: [3 csv files](./Java%20Hometasks/Homework_assignment_2)
+2. Number of output file: [3 csv files](./Java%20Hometasks/Homework_assignment_2)
 3. Folder:[Homework assignment 2](./Java%20Hometasks/Homework_assignment_2)
 4. README:[README file](./Java%20Hometasks/Homework_assignment_2/README.md)
 5. Main file: [Main.java](./Java%20Hometasks/Homework_assignment_2/src/Main.java)
