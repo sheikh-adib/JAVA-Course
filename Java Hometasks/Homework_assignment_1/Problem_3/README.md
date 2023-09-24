@@ -23,17 +23,17 @@ main file: [StringCharacters.java](./src/StringCharacters.java)
 
 1. If statement is used to count number of vowels, letter and spaces
 2. All the letter in the text is set to lowrr case to reduce the number of condition to check wheterr the character is vowel or not
-```
+```java
 String input = text.toLowerCase();
 ```
-```
+```java
 if(c == 'a' || c == 'e' || c == 'i' || c == 'o' || c == 'u' )
             {
                 vowels++;
             }
 ```
 3. Number of letter is increased as every character in the text is checked except when the charachter is symbol or space
-```
+```java
 if(c == ' ' || c == '`' || c == ';' || c == '?' || c == ',')
             {
                 continue;
