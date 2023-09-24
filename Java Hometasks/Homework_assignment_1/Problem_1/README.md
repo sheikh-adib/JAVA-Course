@@ -11,6 +11,11 @@ ESE student
 # Task
 Task: Homework assignment 1/Problem 1
 
+# Development enviroment
+- Language: JAVA
+- using openJDK-20
+- IDE: IntelliJ
+
 # Solution
 Number of file: 1
 
