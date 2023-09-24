@@ -63,6 +63,12 @@ Course of study: ESE
 4. README:[README file](./Java%20Hometasks/Homework_assignment_2/README.md)
 5. Main file: [Main.java](./Java%20Hometasks/Homework_assignment_2/src/Main.java)
 
+# Homework Assignment 3
+1. Number of solution file: 1
+3. Folder:[Homework assignment 3](./Java%20Hometasks/Homework_assignment_3)
+4. README:[README file](./Java%20Hometasks/Homework_assignment_3/README.md)
+5. Main file: 
+
 
 
 
