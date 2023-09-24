@@ -57,7 +57,11 @@ Course of study: ESE
 4. Main file: [Main.java](./Java%20Hometasks/Homework_assignment_1/Problem_4/src/Main.java)
 
 # Homework Assignment 2
-
+1. Number of solution file: 1
+2. Numbe of output file: [3](./Java%20Hometasks/Homework_assignment_2)
+3. Folder:[Homework assignment 2](./Java%20Hometasks/Homework_assignment_2)
+4. README:[README file](./Java%20Hometasks/Homework_assignment_2/README.md)
+5. Main file: [Main.java](./Java%20Hometasks/Homework_assignment_2/src/Main.java)
 
 
 
