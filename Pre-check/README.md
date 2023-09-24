@@ -11,6 +11,11 @@ ESE student
 # Task
 Task: Pre-check task
 
+# Development enviroment
+- Language: JAVA
+- using openJDK-20
+- IDE: IntelliJ
+
 # Solution
 list of accesible function of Prticipant can bee seen in interface of Participant (Participant_interface)
 
