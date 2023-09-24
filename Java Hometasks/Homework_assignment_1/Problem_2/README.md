@@ -22,7 +22,7 @@ Number of file: 1
 main file: [Primes.java](./src/Primes.java)
 
 1. If condition is used to include  number that its square root value less then 2
-```
+```java
 if (Math.sqrt(i)<2)
             {
                 System.out.println(i);
@@ -30,7 +30,7 @@ if (Math.sqrt(i)<2)
 ```
 2. Use for loop to check the other number
 3. if there is no reminder when didving a number with a value less then its square root value, skip the proceding statement using ```continue``` and if the number cannot be divided  with number less than its square root value, the number is considered as a prime number
-```
+```java
 for (int j = 2; j<= (int)Math.sqrt(i) ;j++)
             {
                 // skip number that can be divided with number less than its square root value
