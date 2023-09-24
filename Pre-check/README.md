@@ -25,7 +25,7 @@ main file: [Participant.java](./src/Participant.java)
 
 # Verification
 1. list of three participant were created
-     ```python
+     ```java
      Participant participant1 = new Participant("Sheikh", "Muhammad",22, "Climbing", new String[]{"national", "international"});
      Participant participant2 = new Participant("Adib", "Bin",23, "Climbing", new String[]{"national"});
      Participant participant3 = new Participant("Abu", "Bakar",24, "Cycling", new String[]{"national", "international"});
