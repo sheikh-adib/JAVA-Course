@@ -9,7 +9,7 @@ Student ID: 7219310
 ESE student
 
 # Task
-Task: Home assignment 1/Problem 2
+Task: Homework assignment 1/Problem 2
 
 # Solution
 Number of file: 1
