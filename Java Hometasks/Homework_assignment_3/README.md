@@ -106,7 +106,7 @@ class HybridV extends Vehicle
     (vehicleArrayList.get(1)).registrationNumber = "DO 02";
     (vehicleArrayList.get(2)).registrationNumber = "DO 03";
 ```
-4. Vehicle type is displayed (```classifier``` is used) before vehicle characteristic is displayed (by calling ```ShowCharacteristics()``` )
+4. Vehicle type is displayed before vehicle characteristic is displayed (by calling ```ShowCharacteristics()``` )
 ```java
     int count = 0;
     for (Vehicle veh : vehicleArrayList)
