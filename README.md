@@ -9,7 +9,7 @@ Course of study: ESE
 * Main
   * [Pre-check/](./Pre-check)
   * [Java Hometasks/](./Java%20Hometasks)
-      * [Homework assignment 1/](./Java%20Hometasks/Homework%20assignment%201)
+      * [Homework assignment 1/](./Java%20Hometasks/Homework_assignment_1)
         * [Problem 1/](./Java%20Hometasks/Homework_assignment_1/Problem_1)
         * [Problem 2/](./Java%20Hometasks/Homework_assignment_1/Problem_2)
         * [Problem 3/](./Java%20Hometasks/Homework_assignment_1/Problem_3)
