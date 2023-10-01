@@ -46,7 +46,7 @@ main file: [Main.java](./src/Main.java)
 ```
 [`tis, and, arrows, arms, against, a, and, be, be, by, end, fortune, in, is, mind, nobler, not, or, of, or, of, opposing, outrageous, question, sea, slings, suffer, to, the, the, To, to, troubles, that, the, to, take, them, Whether]
 ```
-3. When redundant word is removed:
+2. When redundant word is removed:
 ```
 [`tis, and, arrows, arms, against, a, be, by, end, fortune, is, in, mind, not, nobler, or, of, opposing, outrageous, question, suffer, slings, sea, take, troubles, that, To, the, them, Whether]
 ```
