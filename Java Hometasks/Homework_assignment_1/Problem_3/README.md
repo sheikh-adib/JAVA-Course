@@ -22,7 +22,7 @@ Number of file: 1
 main file: [StringCharacters.java](./src/StringCharacters.java)
 
 1. If statement is used to count number of vowels, letter and spaces
-2. All the letter in the text is set to lowrr case to reduce the number of condition to check wheterr the character is vowel or not
+2. All the letter in the text is set to lower case to reduce the number of condition to check whether the character is vowel or not
 ```java
 String input = text.toLowerCase();
 ```
