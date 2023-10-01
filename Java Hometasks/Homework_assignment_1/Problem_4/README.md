@@ -22,6 +22,7 @@ Number of file: 1
 main file: [Main.java](./src/Main.java)
 
 1. A word is define as below:
+
 ```"A word start with a letter or '`' and end with a letter or ''' and without any space between the charachters"```
 2. The algorithm of the solution is as follow.
       1. Make a list of word from a text.
