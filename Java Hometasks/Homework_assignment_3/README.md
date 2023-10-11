@@ -11,7 +11,7 @@ ESE student
 # Directory tree
 * [Main](https://github.com/sheikh-adib/JAVA-Course/tree/main)
   * [Java Hometasks/](https://github.com/sheikh-adib/JAVA-Course/tree/main/Java%20Hometasks)
-      * [Homework assignment 1/]((https://github.com/sheikh-adib/JAVA-Course/tree/main/Java%20Hometasks/Homework_assignment_1))
+      * [Homework assignment 1/](https://github.com/sheikh-adib/JAVA-Course/tree/main/Java%20Hometasks/Homework_assignment_1)
         * [Problem 1/](https://github.com/sheikh-adib/JAVA-Course/tree/main/Java%20Hometasks/Homework_assignment_1/Problem_1)
         * [Problem 2/](https://github.com/sheikh-adib/JAVA-Course/tree/main/Java%20Hometasks/Homework_assignment_1/Problem_2)
         * [Problem 3/](https://github.com/sheikh-adib/JAVA-Course/tree/main/Java%20Hometasks/Homework_assignment_1/Problem_3)
