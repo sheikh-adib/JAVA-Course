@@ -1,0 +1,2 @@
+Name: Dortmund Hbf, location: [location Coordinates Numbers: 51.518019, 7.459297, id: 1]
+Name: Dortmund-West (S), location: [location Coordinates Numbers: 51.509702, 7.439078, id: 2]
